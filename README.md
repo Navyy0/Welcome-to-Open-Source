@@ -5484,7 +5484,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
              <td align="center">
                 <a href="https://github.com/Navyy0">
-                    <img src="https://avatars.githubusercontent.com/u/158759818?v=4" width="100px;"
+                    <img src="[https://avatars.githubusercontent.com/u/158759818?v=4](https://github.com/account)"                                  width="100px;"
                         alt="Navyansh" />
                     <br />
                     <sub>
